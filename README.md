@@ -9,4 +9,4 @@ Ce repository contient les dossiers
 
 En plus des fichiers nécessaires a l'execution du rake.
 
-Ce travail a été effectué en odd-programming a l'aide de Victor Douay et Corentin Nadaud (oui on est un groupe impair)
+Ce travail a été effectué en odd-programming a l'aide par Victor Douay, Corentin Nadaud et Hava Guerni (oui on est un groupe impair)
